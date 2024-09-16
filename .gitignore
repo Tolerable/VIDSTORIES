@@ -1,0 +1,8 @@
+BACKUPS/
+DIALOGS/
+IMAGES/
+PROJECTS/
+VIDSTORIES-*.py
+*.txt
+!requirements.txt
+myenv/

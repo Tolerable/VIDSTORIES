@@ -1,0 +1,7 @@
+tk
+Pillow
+moviepy
+pydub
+gtts
+requests
+openai
